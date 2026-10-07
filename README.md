@@ -1,6 +1,6 @@
 <h1>A collection of offline HTML games.</h1>
 
-<p>A repo filled with 350 offline games that can each run on a single file. This is a good option if you are having internet connectivity issues, or you're at some place with <i>restricted internet</i>.</p>
+<p>A repo filled with 352 offline games that can each run on a single file. This is a good option if you are having internet connectivity issues, or you're at some place with <i>restricted internet</i>.</p>
 
 
 **Usage:** Under the Code button, select Download ZIP. It may take a while to download. After, extract the zip by right clicking on it and selecting Extract All. Now you have the repo containing the games all in a folder. You can also clone the repository using git.
